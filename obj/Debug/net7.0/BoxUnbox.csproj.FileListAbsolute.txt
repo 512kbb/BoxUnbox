@@ -1,0 +1,15 @@
+C:\Users\yungv\bootcamp-codingdojo\csharp\BoxUnbox\bin\Debug\net7.0\BoxUnbox.exe
+C:\Users\yungv\bootcamp-codingdojo\csharp\BoxUnbox\bin\Debug\net7.0\BoxUnbox.deps.json
+C:\Users\yungv\bootcamp-codingdojo\csharp\BoxUnbox\bin\Debug\net7.0\BoxUnbox.runtimeconfig.json
+C:\Users\yungv\bootcamp-codingdojo\csharp\BoxUnbox\bin\Debug\net7.0\BoxUnbox.dll
+C:\Users\yungv\bootcamp-codingdojo\csharp\BoxUnbox\bin\Debug\net7.0\BoxUnbox.pdb
+C:\Users\yungv\bootcamp-codingdojo\csharp\BoxUnbox\obj\Debug\net7.0\BoxUnbox.csproj.AssemblyReference.cache
+C:\Users\yungv\bootcamp-codingdojo\csharp\BoxUnbox\obj\Debug\net7.0\BoxUnbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yungv\bootcamp-codingdojo\csharp\BoxUnbox\obj\Debug\net7.0\BoxUnbox.AssemblyInfoInputs.cache
+C:\Users\yungv\bootcamp-codingdojo\csharp\BoxUnbox\obj\Debug\net7.0\BoxUnbox.AssemblyInfo.cs
+C:\Users\yungv\bootcamp-codingdojo\csharp\BoxUnbox\obj\Debug\net7.0\BoxUnbox.csproj.CoreCompileInputs.cache
+C:\Users\yungv\bootcamp-codingdojo\csharp\BoxUnbox\obj\Debug\net7.0\BoxUnbox.dll
+C:\Users\yungv\bootcamp-codingdojo\csharp\BoxUnbox\obj\Debug\net7.0\refint\BoxUnbox.dll
+C:\Users\yungv\bootcamp-codingdojo\csharp\BoxUnbox\obj\Debug\net7.0\BoxUnbox.pdb
+C:\Users\yungv\bootcamp-codingdojo\csharp\BoxUnbox\obj\Debug\net7.0\BoxUnbox.genruntimeconfig.cache
+C:\Users\yungv\bootcamp-codingdojo\csharp\BoxUnbox\obj\Debug\net7.0\ref\BoxUnbox.dll
